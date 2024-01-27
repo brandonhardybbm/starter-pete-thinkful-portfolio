@@ -16,7 +16,7 @@ h3 {
 }
 
 /* Header */
-header {
+.header {
   text-align: left;
   flex: row;
 }
