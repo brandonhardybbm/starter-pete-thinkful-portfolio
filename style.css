@@ -41,6 +41,10 @@ article div {
   width: 100%;
 }
 
+.first-flex {
+  display: flex;
+}
+
 /* Paragraphs */
 p {
   line-height: 1.5;
