@@ -19,7 +19,8 @@ h3 {
 header {
   text-align: center;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  margin: 10px;
 }
 
 /* Containers */
