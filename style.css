@@ -52,6 +52,10 @@ article div {
   text-align: center;
 }
 
+.third-flex {
+  text-align: center;
+}
+
 /* Paragraphs */
 p {
   line-height: 1.5;
