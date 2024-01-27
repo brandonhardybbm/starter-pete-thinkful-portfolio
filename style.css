@@ -46,6 +46,11 @@ article div {
   flex-direction: row;
 }
 
+.second-flex {
+  display: flex;
+  flex-direction: column;
+}
+
 /* Paragraphs */
 p {
   line-height: 1.5;
