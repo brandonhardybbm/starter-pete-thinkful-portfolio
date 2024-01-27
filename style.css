@@ -43,6 +43,7 @@ article div {
 
 .first-flex {
   display: flex;
+  flex-direction: row;
 }
 
 /* Paragraphs */
