@@ -49,7 +49,7 @@ article div {
 .second-flex {
   display: flex;
   flex-direction: column;
-  text-align: center;
+  text-align: left;
 }
 
 .third-flex {
