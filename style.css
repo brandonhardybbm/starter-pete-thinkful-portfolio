@@ -18,11 +18,11 @@ h3 {
 
 /* Header */
 header {
-  text-align: center;
+   text-align: center;
   display: flex;
   flex-direction: row;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
 }
 
 /* Containers */
