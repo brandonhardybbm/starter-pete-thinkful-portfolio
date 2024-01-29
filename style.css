@@ -49,8 +49,8 @@ article div {
 .second-flex {
   display: flex;
   flex-direction: column;
+  align-self: start;
   text-align: left;
-  align-items: flex-start;
 }
 
 .third-flex {
